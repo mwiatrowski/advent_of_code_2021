@@ -114,5 +114,11 @@ let package = Package(
         .target(
             name: "day18b",
             dependencies: []),
+        .target(
+            name: "day19a",
+            dependencies: []),
+        .target(
+            name: "day19b",
+            dependencies: []),
     ]
 )
